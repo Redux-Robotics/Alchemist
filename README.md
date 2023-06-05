@@ -1,3 +1,3 @@
 # Alchemist
 
-Currently in pre-release, instructions coming soon
+See [Releases](https://github.com/Redux-Robotics/Alchemist/releases) for new releases.
